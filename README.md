@@ -1,15 +1,15 @@
 <div align="center">
-    <a href="https://github.com/jonypeixoto/Dark-Cyber-Theme" target="_blank">
+    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
         <img src="./docs/images/icon.png" width="250" height="250"/>
     </a>
 </div>
-<h1 align="center">Dark Cyber for     
+<h1 align="center">Dark Castle for     
     <a href="https://apps.apple.com/app/telegram-messenger/id686449807" target="_blank">
     Telegram (iOS)
     </a>
 </h1>
 <p align="center">
-  A vibrantly elegant dark theme available for multiple platforms. Inspired by the cyberpunk culture and mystery of aliens, this theme combines rich, deep colors with a clean and modern design.
+  A vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design.
 </p>
 
 <div align="center">
@@ -24,7 +24,7 @@ All instructions can be found in the included [Install](INSTALL.md) file.
 
 This theme is maintained by the following person(s).
 
-| [![Scott Griv](https://github.com/jonypeixoto.png?size=100)](https://github.com/jonypeixoto) |
+| [![Scott Griv](https://github.com/scottgriv.png?size=100)](https://github.com/scottgriv) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)                                              |
 
@@ -38,8 +38,8 @@ Please refer to the [Changelog](.github/CHANGELOG.md) file in this repository fo
 
 ## Additional Information
 
-- [Main GitHub Repository](https://github.com/jonypeixoto/Dark-Cyber-Theme)
-- [Visit our Website](https://darkcyber.netlify.app/)
+- [Main GitHub Repository](https://github.com/scottgriv/Dark-Castle-Theme)
+- [Visit our Website](https://darkcastle.netlify.app/)
 
 ## License
 
