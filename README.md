@@ -30,7 +30,7 @@ This theme is maintained by the following person(s).
 
 ## Contributing
 
-If you'd like to contribute to this theme, please read the [Contributing Guidelines](https://github.com/scottgriv/Dark-Castle-Theme/blob/main/.github/CONTRIBUTING.md).
+If you'd like to contribute to this theme, please read the [Contributing Guidelines](https://github.com/jonypeixoto/Dark-Cyber-Theme/blob/main/.github/CONTRIBUTING.md).
 
 ## Changelog
 
