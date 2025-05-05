@@ -16,6 +16,13 @@
     <img src="./screenshot.png" width="350"/>
 </div>
 
+<br/>
+<br/>
+
+<div align="center">
+    <img src="./screenshot2.png" width="350"/>
+</div>
+
 ## Install
 
 All instructions can be found in the included [Install](INSTALL.md) file.
